@@ -21,6 +21,7 @@
         <dc:contributor>The OpenRiskNet Consortium</dc:contributor>
         <dc:contributor>Egon Willighagen</dc:contributor>
         <owl:imports rdf:resource="http://purl.enanomapper.net/onto/external/bfo-slim.owl"/>
+        <owl:imports rdf:resource="https://raw.githubusercontent.com/egonw/orn-ontology/master/external/chebi-slim.owl"/>
     </owl:Ontology>
 </rdf:RDF>
 
