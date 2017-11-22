@@ -10,19 +10,19 @@
 ]>
 
 
-<rdf:RDF xmlns="https://raw.githubusercontent.com/egonw/orn-ontology/master/openrisknet-auto.owl#"
-     xml:base="https://raw.githubusercontent.com/egonw/orn-ontology/master/openrisknet-auto.owl"
+<rdf:RDF xmlns="https://raw.githubusercontent.com/openrisknet/orn-ontology/master/openrisknet-auto.owl#"
+     xml:base="https://raw.githubusercontent.com/openrisknet/orn-ontology/master/openrisknet-auto.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <owl:Ontology rdf:about="https://raw.githubusercontent.com/egonw/orn-ontology/master/openrisknet-auto.owl">
+    <owl:Ontology rdf:about="https://raw.githubusercontent.com/openrisknet/orn-ontology/master/openrisknet-auto.owl">
         <dc:contributor>The OpenRiskNet Consortium</dc:contributor>
         <dc:contributor>Egon Willighagen</dc:contributor>
         <owl:imports rdf:resource="http://purl.enanomapper.net/onto/external/bfo-slim.owl"/>
         <owl:imports rdf:resource="http://purl.enanomapper.net/onto/external/iao-slim.owl"/>
         <owl:imports rdf:resource="http://purl.enanomapper.net/onto/external/aopo-slim.owl"/>
-        <owl:imports rdf:resource="https://raw.githubusercontent.com/egonw/orn-ontology/master/external/chebi-slim.owl"/>
+        <owl:imports rdf:resource="https://raw.githubusercontent.com/openrisknet/orn-ontology/master/external/chebi-slim.owl"/>
     </owl:Ontology>
 </rdf:RDF>

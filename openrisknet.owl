@@ -49,8 +49,8 @@
      xmlns:bibo="http://purl.org/ontology/bibo/"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <owl:Ontology rdf:about="https://raw.githubusercontent.com/egonw/orn-ontology/master/openrisknet.owl">
-        <owl:imports rdf:resource="https://raw.githubusercontent.com/egonw/orn-ontology/master/openrisknet-auto.owl"/>
+    <owl:Ontology rdf:about="https://raw.githubusercontent.com/openrisknet/orn-ontology/master/openrisknet.owl">
+        <owl:imports rdf:resource="https://raw.githubusercontent.com/openrisknet/orn-ontology/master/openrisknet-auto.owl"/>
         <dc:contributor>The OpenRiskNet Consortium</dc:contributor>
         <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.1</owl:versionInfo>
         <dc:contributor>Egon Willighagen</dc:contributor>
